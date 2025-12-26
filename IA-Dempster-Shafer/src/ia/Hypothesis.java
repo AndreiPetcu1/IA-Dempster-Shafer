@@ -1,4 +1,4 @@
-package main.java.ia;
+package ia;
 
 public enum Hypothesis {
     GRIPA,

@@ -1,4 +1,4 @@
-package main.java.ia;
+package ia;
 
 import java.util.EnumSet;
 import java.util.HashMap;
