@@ -3,7 +3,7 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/IA-Dempster-Shafer/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Diagnostic medical bazat pe agregarea evidențelor folosind regula Dempster–Shafer/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
